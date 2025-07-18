@@ -72,7 +72,9 @@ public class OperatorTest {
 		
 		// ● 대입 연산자의 종류 
 		
-//		score = score + 10 == score += 10
-//		-= , *=, /= ...
+		// 복합 대입 연산자
+		
+		// score = score + 10 == score += 10
+		// -= , *=, /= ...
 	}
 }
